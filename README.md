@@ -51,6 +51,8 @@ Tweet 3: start working today.
 Tweet 4: make it happen.
 Tweet 5: dream big and chase it.
 
+---
+
 ## 🧠 Algorithmic FlowLearning Stage: 
 1. Reads words sequentially from the input text file, adding each unique word as a MarkovNode in the dynamic database list.
 2. Frequency Updates: For every state word, tracks subsequent word frequencies inside dynamic MarkovNodeFrequency arrays.
